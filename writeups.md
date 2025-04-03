@@ -1,1 +1,1 @@
-[Hack the Box](https://technosavage.github.io/writeups/htb.md)
+[Hack the Box](https://technosavage.github.io/writeups/htb)
