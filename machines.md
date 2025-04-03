@@ -1,7 +1,7 @@
-[Bizness](https://technosavage.github.io/htb_writeups/Machines/bizness.md)
+[Bizness](https://technosavage.github.io/htb_writeups/Machines/bizness)
 
-[Cozy Hosting](https://technosavage.github.io/htb_writeups/Machines/cozyhosting.md)
+[Cozy Hosting](https://technosavage.github.io/htb_writeups/Machines/cozyhosting)
 
-[Keeper](https://technosavage.github.io/htb_writeups/Machines/keeper.md)
+[Keeper](https://technosavage.github.io/htb_writeups/Machines/keeper)
 
 

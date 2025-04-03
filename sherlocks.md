@@ -1,4 +1,4 @@
-[Meerkat](https://technosavage.github.io/HTB/Sherlocks_writeups/meerkat.md)
+[Meerkat](https://technosavage.github.io/HTB/Sherlocks_writeups/meerkat)
 
-[Operation Tinseltrace](https://technosavage.github.io/HTB/Sherlocks_writeups/operation_tinseltrace.md)
+[Operation Tinseltrace](https://technosavage.github.io/HTB/Sherlocks_writeups/operation_tinseltrace)
 
