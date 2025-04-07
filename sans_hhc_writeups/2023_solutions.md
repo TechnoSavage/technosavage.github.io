@@ -104,6 +104,9 @@ Correct submission is `3, 6, and 9 are hallucinations`
 
 ### Azure 101
 
+[![Azure 101](https://img.youtube.com/vi/wrchcHlKwNk/hqdefault.jpg)](https://www.youtube.com/watch?v=wrchcHlKwNk)
+
+
     az help | less
     az account show | less
     az group list | less
@@ -119,6 +122,9 @@ Correct submission is `3, 6, and 9 are hallucinations`
 
 ### Hashcat
 
+[![Hashcat](https://img.youtube.com/vi/SJWxCfaltao/hqdefault.jpg)](https://www.youtube.com/watch?v=SJWxCfaltao)
+
+
 Copy hash and password list to system with hashcat
 
 `hashcat --identify hhc2023.hash`<br>
@@ -129,6 +135,8 @@ Copy hash and password list to system with hashcat
 ## Ostrich Saloon
 
 ### Linux Privesc
+
+[![Linux Privesc](https://img.youtube.com/vi/tn9vDpyru2c/hqdefault.jpg)](https://www.youtube.com/watch?v=tn9vDpyru2c)
 
 search for binaries with suid
 
@@ -170,6 +178,8 @@ or
 ## Tarnished Trove 
 
 ###  Game Cartridges Vol. 1
+
+[![Game Gosling Vol.1](https://img.youtube.com/vi/SVHdvfqL6k0/hqdefault.jpg)](https://www.youtube.com/watch?v=SVHdvfqL6k0)
 
 Fix the QR code then scan for URL 
 
