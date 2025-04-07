@@ -52,7 +52,7 @@
 
 ### Linux 101
 
-[](https://youtu.be/MN31CTJS8lY?si=aaHkAC3tpkUnP8Oi)
+[![Linux 101](https://img.youtube.com/vi/MN31CTJS8lY&list=PLbKPIP1Z22HeSue9d40Z-f3FIXrTLBD4Y/0.jpg)](https://www.youtube.com/watch?v=MN31CTJS8lY&list=PLbKPIP1Z22HeSue9d40Z-f3FIXrTLBD4Y)
 
     ls
     cat troll
