@@ -18,7 +18,7 @@
 
 ### Snowball Fight
 
-[![Snowball Hero](https://img.youtube.com/vi/iSR6-tsZBeE/default.jpg)](https://www.youtube.com/watch?v=iSR6-tsZBeE)
+[![Snowball Hero](https://img.youtube.com/vi/iSR6-tsZBeE/maxdefault.jpg)](https://www.youtube.com/watch?v=iSR6-tsZBeE)
 
 
 - Enter the game lobby and inspect the game window (iFrame) to open developer tools
@@ -53,7 +53,7 @@
 
 ### Linux 101
 
-[![Linux 101](https://img.youtube.com/vi/MN31CTJS8lY/default.jpg)](https://www.youtube.com/watch?v=MN31CTJS8lY)
+[![Linux 101](https://img.youtube.com/vi/MN31CTJS8lY/maxdefault.jpg)](https://www.youtube.com/watch?v=MN31CTJS8lY)
 
     ls
     cat troll
@@ -82,6 +82,8 @@
 ## Rudolph's Rest
 
 ### Reportinator
+
+[![Reportinator](https://img.youtube.com/vi/t5BwDOW8hgA/maxdefault.jpg)](https://www.youtube.com/watch?v=t5BwDOW8hgA)
 
 After dissecting the report and failing I used Burp to brute force answer then read report with correct answers for context
 
