@@ -18,7 +18,8 @@
 
 ### Snowball Fight
 
-[]
+[![Snowball Hero](https://img.youtube.com/vi/iSR6-tsZBeE&list=PLbKPIP1Z22HeSue9d40Z-f3FIXrTLBD4Y/hqdefault.jpg)](https://www.youtube.com/watch?v=iSR6-tsZBeE&list=PLbKPIP1Z22HeSue9d40Z-f3FIXrTLBD4Y)
+
 
 - Enter the game lobby and inspect the game window (iFrame) to open developer tools
 
@@ -52,7 +53,7 @@
 
 ### Linux 101
 
-[![Linux 101](https://img.youtube.com/vi/MN31CTJS8lY&list=PLbKPIP1Z22HeSue9d40Z-f3FIXrTLBD4Y/0.jpg)](https://www.youtube.com/watch?v=MN31CTJS8lY&list=PLbKPIP1Z22HeSue9d40Z-f3FIXrTLBD4Y)
+[![Linux 101](https://img.youtube.com/vi/MN31CTJS8lY&list=PLbKPIP1Z22HeSue9d40Z-f3FIXrTLBD4Y/hqdefault.jpg)](https://www.youtube.com/watch?v=MN31CTJS8lY&list=PLbKPIP1Z22HeSue9d40Z-f3FIXrTLBD4Y)
 
     ls
     cat troll
