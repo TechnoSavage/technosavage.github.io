@@ -1,4 +1,3 @@
-# technosavage.github.io
 
 [Blog](https://technosavage.github.io/blog)
 
