@@ -245,7 +245,7 @@ cat flag.txt
 
 ## Boria Artifacts Challenges
 
-[![Bad IP](https://img.youtube.com/vi/adVEfxmSgkA/hqdefault.jpg)](https://www.youtube.com/watch?v=adVEfxmSgkA)
+[![Boria Artifacts](https://img.youtube.com/vi/adVEfxmSgkA/hqdefault.jpg)](https://www.youtube.com/watch?v=adVEfxmSgkA)
 
 ### Naughty IP:
 
@@ -256,13 +256,12 @@ cat flag.txt
 
 ### Credential Mining:
 
-[![Credential Mining](https://img.youtube.com/vi/nmMnfogG6n0/hqdefault.jpg)](https://www.youtube.com/watch?v=nmMnfogG6n0)
-
 Filter:
 ``` 
-ip.src==18.222.86.32 && http 
+ip.src==18.222.86.32 && http.request.method==POST
 ```
 or
+
 ```
 ip.src==18.222.86.32 && http.request.uri contains login
 ```
@@ -271,26 +270,31 @@ ip.src==18.222.86.32 && http.request.uri contains login
 
 ### 404 FTW:
 
-[![404 FTW](https://img.youtube.com/vi/nmMnfogG6n0/hqdefault.jpg)](https://www.youtube.com/watch?v=nmMnfogG6n0)
-
-
 first successful url:
 
 filter:
+
+``` 
+ip.src==18.222.86.32 && http.request.method==GET || ip.dst==18.222.86.32 && !http.response.code==404 
 ```
-ip.src == 18.222.86.32
- 
-ip.src==18.222.86.32 && http || ip.dst==18.222.86.32 && http && !http.response.code==404 
+
+or
+
+```
+ip.src==18.222.86.32 && http.request.method==GET || ip.dst==18.222.86.32 && http.response.code==200 
 ```
 
 #### Answer: `/proc`
 
 ### IMDS, XXE, and Other Abbreviations:
 
-[![IMDS, XXE, and Other Abbreviations](https://img.youtube.com/vi/nmMnfogG6n0/hqdefault.jpg)](https://www.youtube.com/watch?v=nmMnfogG6n0)
+filter:
 
+```
+ip.src==18.222.86.32 && http.request.method==POST && http.request.uri contains proc || ip.dst==18.222.86.32 && http.response.code==200
+```
 
-- Scroll down
+- Scroll down and review the POSTs and responses to /proc to see the full URL being constructed
 
 #### Answer: `http://169.254.169.254/latest/meta-data/identity-credentials/ec2/security-credentials/ec2-instance`
 
