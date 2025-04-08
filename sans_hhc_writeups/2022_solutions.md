@@ -13,6 +13,8 @@
 
 ## Wireshark Practice
 
+[![Wireshark Practice](https://img.youtube.com/vi/nmMnfogG6n0/hqdefault.jpg)](https://www.youtube.com/watch?v=nmMnfogG6n0)
+
 ### What kind of objects can we export?
 - export objects -> https
 
@@ -52,6 +54,9 @@ ip.addr==10.9.24.101 && x509sat.CountryName
 #### Answer: `yes`
 
 ## Windows Event Logs:
+
+[![Windows Event Logs](https://img.youtube.com/vi/XLf523DL4fg/hqdefault.jpg)](https://www.youtube.com/watch?v=XLf523DL4fg)
+
 
 ### What date did the attack take place?
 
@@ -100,6 +105,9 @@ ip.addr==10.9.24.101 && x509sat.CountryName
 
 ## Suricata Regatta:
 
+[![Suricata Regatta](https://img.youtube.com/vi/HM37eAJIxOY/hqdefault.jpg)](https://www.youtube.com/watch?v=HM37eAJIxOY)
+
+
 ### Block DNS lookup of adv.epostoday.uk, alert "Known bad DNS lookup, possible Dridex infection"
 
 ```    
@@ -128,6 +136,9 @@ alert http $HOME_NET any <> any any (msg:"Suspicious JavaScript function, possib
 
 ## Git clone repo:
 
+[![Git Clone repo](https://img.youtube.com/vi/RFzxlTjORLM/hqdefault.jpg)](https://www.youtube.com/watch?v=RFzxlTjORLM)
+
+
 - change to `git clone https://haugfactory.com/asnowball/aws_scripts.git`
 
 ```    
@@ -137,6 +148,9 @@ runtoanswer maintainers
 ```
 
 ## Prison Escape:
+
+[![Prison Escape](https://img.youtube.com/vi/1lRJ9WPdf-c/hqdefault.jpg)](https://www.youtube.com/watch?v=1lRJ9WPdf-c)
+
 
 - samways can sudo to root
 
@@ -149,7 +163,10 @@ cat jail.key.priv
 ```
 #### Flag: `one step closer 082bb339ec19de4935867`
 
-## CI/CD:
+## Jolly CI/CD:
+
+[![Jolly CI/CD](https://img.youtube.com/vi/-TswxT9PhMY/hqdefault.jpg)](https://www.youtube.com/watch?v=-TswxT9PhMY)
+
 
 ```    
 mkdir web shell
@@ -226,13 +243,20 @@ cat flag.txt
 
 # Web Ring
 
-## Bad IP:
+## Boria Artifacts Challenges
+
+[![Bad IP](https://img.youtube.com/vi/adVEfxmSgkA/hqdefault.jpg)](https://www.youtube.com/watch?v=adVEfxmSgkA)
+
+### Naughty IP:
+
 - Open wireshark -> statistics -> protocol hierarchy
 - url encoded form data suspicious -> apply as filter
 
 #### Answer: `18.222.86.32`
 
-## Credential Mining:
+### Credential Mining:
+
+[![Credential Mining](https://img.youtube.com/vi/nmMnfogG6n0/hqdefault.jpg)](https://www.youtube.com/watch?v=nmMnfogG6n0)
 
 Filter:
 ``` 
@@ -245,7 +269,10 @@ ip.src==18.222.86.32 && http.request.uri contains login
 
 #### first login username: `Alice`
 
-## 404 FTW:
+### 404 FTW:
+
+[![404 FTW](https://img.youtube.com/vi/nmMnfogG6n0/hqdefault.jpg)](https://www.youtube.com/watch?v=nmMnfogG6n0)
+
 
 first successful url:
 
@@ -258,13 +285,19 @@ ip.src==18.222.86.32 && http || ip.dst==18.222.86.32 && http && !http.response.c
 
 #### Answer: `/proc`
 
-## IMDS, XXE, and Other Abbreviations:
+### IMDS, XXE, and Other Abbreviations:
+
+[![IMDS, XXE, and Other Abbreviations](https://img.youtube.com/vi/nmMnfogG6n0/hqdefault.jpg)](https://www.youtube.com/watch?v=nmMnfogG6n0)
+
 
 - Scroll down
 
 #### Answer: `http://169.254.169.254/latest/meta-data/identity-credentials/ec2/security-credentials/ec2-instance`
 
 ## Open Boria Mine Door:
+
+[![Open Boria Mine Door](https://img.youtube.com/vi/udtSMAmthbk/hqdefault.jpg)](https://www.youtube.com/watch?v=udtSMAmthbk)
+
 
 ### Lock 1:
 
@@ -311,6 +344,9 @@ or same as lock 2
 
 ## AWS CLI Intro:
 
+[![AWS CLI Intro](https://img.youtube.com/vi/XeKvwETmrXA/hqdefault.jpg)](https://www.youtube.com/watch?v=XeKvwETmrXA)
+
+
 ### access help: 
 
 ```    
@@ -336,6 +372,9 @@ get caller identity: aws sts get-caller-identity
 ```
 
 ## Trufflehog search:
+
+[![Trufflehog Search](https://img.youtube.com/vi/Cu-yXJZFiLA/hqdefault.jpg)](https://www.youtube.com/watch?v=Cu-yXJZFiLA)
+
 
 ```
 trufflehog https://haugfactory.com/orcadmin/aws_scripts
@@ -368,6 +407,9 @@ Commit: added
 #### Answer: `put_policy.py`
 
 ## Exploitation via AWS CLI:
+
+[![Exploitation via AWS CLI](https://img.youtube.com/vi/GDE26Mc39S0/hqdefault.jpg)](https://www.youtube.com/watch?v=GDE26Mc39S0)
+
 
 ```    
 trufflehog https://haugfactory.com/asnowball/aws_scripts.git 
@@ -495,6 +537,9 @@ aws lambda get-function-url-config --function-name  smogmachine_lambda
 - not much to say
 
 ## Blockchain Divination:
+
+[![Blockchain Divination](https://img.youtube.com/vi/fK1wAgaD3KA/hqdefault.jpg)](https://www.youtube.com/watch?v=fK1wAgaD3KA)
+
 
 ### What is the address of KringleCoin smart contract?
 
