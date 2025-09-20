@@ -3,7 +3,7 @@
 
 [Writeups](https://technosavage.github.io/writeups)
 
-[Lockpicking](https://technosavage.github.io/lockpicking)
+[Lockpicking](https://technosavage.github.io/lockpicking_vids)
 
 
 
