@@ -1,1 +1,0 @@
-[Lockpicking_vids]((https://technosavage.github.io/lockpicking_vids)
