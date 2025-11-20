@@ -43,15 +43,15 @@ then we can cat the contents
 
 ```
 $cat Direct\ Credit\ Advice.html 
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Redirecting. . .</title>
-	<meta http-equiv="refresh" content="0;URL='http://kennaroads.buzz/data/Update365/office365/40e7baa2f826a57fcf04e5202526f8bd/?email=zoe.duncan@swiftspend.finance&error'" />
+<!DOCTYPE hxxl>
+<hxml>
+<hexd>
+	<txxxe>Redirecting. . .</title>
+	<meta http-equiv="refresh" content="0;URL='hxxp[://]kennaroads.buzz/data/Update365/office365/40e7baa2f826a57fcf04e5202526f8bd/?email=zoe.duncan@swiftspend.finance&error'" />
 </head>
-<body>
-	<h1>Redirecting. . .</h1>
-	<p>If you are not redirected automatically, please click <a href="http://kennaroads.buzz/data/Update365/office365/40e7baa2f826a57fcf04e5202526f8bd/?email=zoe.duncan@swiftspend.finance&error">here</a>.</p>
+<bxdy>
+	<hx1>Redirecting. . .</hx1>
+	<px>If you are not redirected automatically, please click <a href="hxxp[://]kennaroads.buzz/data/Update365/office365/40e7baa2f826a57fcf04e5202526f8bd/?email=zoe.duncan@swiftspend.finance&error">here</a>.</p>
 </body>
 </html>
 ```
