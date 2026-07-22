@@ -4,7 +4,7 @@
 
 Set the date range to March of 2022 and create a search for `index=win_eventlogs`
 
-![Log Events](https://github.com/TechnoSavage/CTF/blob/main/THM/walkthroughs/images/benign/1.png?raw=true)
+![Log Events](https://https://github.com/TechnoSavage/technosavage.github.io/blob/main/thm_writeups/images/benign/1.png?raw=true)
 
 `13959`
 
@@ -16,7 +16,7 @@ Let's start by returning the top 20 rare usernames for review, this immediately 
 index="win_eventlogs" | rare limit=20 UserName
 ```
 
-![Imposter](https://github.com/TechnoSavage/CTF/blob/main/THM/walkthroughs/images/benign/2.png?raw=true)
+![Imposter](https://https://github.com/TechnoSavage/technosavage.github.io/blob/main/thm_writeups/images/benign/2.png?raw=true)
 
 `Amel1a`
 
@@ -24,7 +24,7 @@ index="win_eventlogs" | rare limit=20 UserName
 
 Do a search for schtasks.exe
 
-![schtasks](https://github.com/TechnoSavage/CTF/blob/main/THM/walkthroughs/images/benign/3.png?raw=true)
+![schtasks](https://https://github.com/TechnoSavage/technosavage.github.io/blob/main/thm_writeups/images/benign/3.png?raw=true)
 
 `Chris.fort`
 
@@ -34,7 +34,7 @@ LOLBINs are "Living off the Land binaries", legitimate tools that can be used fo
 
 On Windows, certutil.exe is a common binary that is abused for downloading files
 
-![lolbin](https://github.com/TechnoSavage/CTF/blob/main/THM/walkthroughs/images/benign/4.png?raw=true)
+![lolbin](https://https://github.com/TechnoSavage/technosavage.github.io/blob/main/thm_writeups/images/benign/4.png?raw=true)
 
 `haroon`
 
@@ -58,7 +58,7 @@ On Windows, certutil.exe is a common binary that is abused for downloading files
 
 Navigate to the download URL to evaluate the file
 
-![suspicious file](https://github.com/TechnoSavage/CTF/blob/main/THM/walkthroughs/images/benign/5.png?raw=true)
+![suspicious file](https://https://github.com/TechnoSavage/technosavage.github.io/blob/main/thm_writeups/images/benign/5.png?raw=true)
 
 `THM{KJ&*H^B0}`
 

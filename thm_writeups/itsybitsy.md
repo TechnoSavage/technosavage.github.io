@@ -6,7 +6,7 @@
 
 `1482`
 
-![Log Events](https://github.com/TechnoSavage/CTF/blob/main/THM/walkthroughs/images/itsybitsy/1.png?raw=true)
+![Log Events](https://github.com/TechnoSavage/technosavage.github.io/blob/main/thm_writeups/images/itsybitsy/1.png)
 
 ## What is the IP associated with the suspected user in the logs?
 
@@ -32,7 +32,7 @@
 
 `pastebin.com/yTg0Ah6a`
 
-![Answers 2-4](https://github.com/TechnoSavage/CTF/blob/main/THM/walkthroughs/images/itsybitsy/2.png?raw=true)
+![Answers 2-4](https://github.com/TechnoSavage/technosavage.github.io/blob/main/thm_writeups/images/itsybitsy/2.png)
 
 ## A file was accessed on the filesharing site. What is the name of the file accessed?
 
@@ -46,4 +46,4 @@
 
 `THM{SECRET__CODE}`
 
-![Pastebin](https://github.com/TechnoSavage/CTF/blob/main/THM/walkthroughs/images/itsybitsy/3.png?raw=true)
+![Pastebin](https://github.com/TechnoSavage/technosavage.github.io/blob/main/thm_writeups/images/itsybitsy/3.png)
