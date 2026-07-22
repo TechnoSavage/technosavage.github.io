@@ -13,7 +13,7 @@ Launch TryDetectThis2.0
 
 - Search the hash in Virustotal offline
 
-![syshelpers.exe](https://github.com/TechnoSavage/CTF/blob/main/THM/walkthroughs/images/invite_only/file.png?raw=true)
+![syshelpers.exe](https://github.com/TechnoSavage/technosavage.github.io/blob/main/thm_writeups/images/invite_only/file.png?raw=true)
 
 `syshelpers.exe`
 
@@ -25,7 +25,7 @@ Launch TryDetectThis2.0
 
 - Navigate to the "Relations" tab and look for "Execution Parents"
 
-![execution parents](https://github.com/TechnoSavage/CTF/blob/main/THM/walkthroughs/images/invite_only/execution_parents.png?raw=true)
+![execution parents](https://github.com/TechnoSavage/technosavage.github.io/blob/main/thm_writeups/images/invite_only/execution_parents.png?raw=true)
 
 Hashes of the following files:
 - 361GJX7J - `047c5eec0445746862710d20e50a5dd04510b7e625fa5c1f5d48ce078001c0de`
@@ -37,7 +37,7 @@ Hashes of the following files:
 
 - Navigate to the "Bahavior" tab and check the first GET request made
 
-![AClient.exe](https://github.com/TechnoSavage/CTF/blob/main/THM/walkthroughs/images/invite_only/dropped_file.png?raw=true)
+![AClient.exe](https://github.com/TechnoSavage/technosavage.github.io/blob/main/thm_writeups/images/invite_only/dropped_file.png?raw=true)
 
 `AClient.exe`
 
@@ -47,7 +47,7 @@ Hashes of the following files:
 
 - Use the one with the red text and exclamations beside them
 
-![Dropped Files](https://github.com/TechnoSavage/CTF/blob/main/THM/walkthroughs/images/invite_only/dropped_files.png?raw=true)
+![Dropped Files](https://github.com/TechnoSavage/technosavage.github.io/blob/main/thm_writeups/images/invite_only/dropped_files.png?raw=true)
 
 - Another broken answer in TryHackMe
 
@@ -59,7 +59,7 @@ Hashes of the following files:
 
 - Community tab after searching the IP address
 
-![Asyncrat Report](https://github.com/TechnoSavage/CTF/blob/main/THM/walkthroughs/images/invite_only/report.png?raw=true)
+![Asyncrat Report](https://github.com/TechnoSavage/technosavage.github.io/blob/main/thm_writeups/images/invite_only/report.png?raw=true)
 
 `Asyncrat`
 
