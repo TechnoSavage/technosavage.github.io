@@ -4,6 +4,8 @@
 
 [Bricks Heist](https://technosavage.github.io/thm_writeups/bricks_heist)
 
+[Fool's Mate](https://technosavage.github.io/thm_writeups/fools_mate)
+
 [Friday Overtime](https://technosavage.github.io/thm_writeups/friday_overtime)
 
 [Invite Only](https://technosavage.github.io/thm_writeups/invite_only)
